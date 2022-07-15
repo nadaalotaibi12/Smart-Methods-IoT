@@ -1,0 +1,4 @@
+1-install SP32 Board in Arduino IDE.
+2-decide the pins and set it in the code.
+3-Upload Code to the ESP32.
+4-controlling an LED connected to GPIO 23
