@@ -7,5 +7,5 @@ task2: ESP32
 -----------------------------------------------------
 task3: Arm control code
 ----------------------------------------------------
-task 4: Aruino code for arm control
+task 4: Aruino code for arm controler
 ---------------------------------------------------
