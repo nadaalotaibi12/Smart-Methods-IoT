@@ -5,5 +5,7 @@ task1:translate from speech to text
 -------------------------------------------------------
 task2: ESP32 
 -----------------------------------------------------
-task3: controling ervo from web page
+task3: Arm control code
 ----------------------------------------------------
+task 4: Aruino code for arm control
+---------------------------------------------------
