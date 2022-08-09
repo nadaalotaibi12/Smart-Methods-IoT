@@ -11,3 +11,5 @@ task 4: Aruino code for arm controler
 ---------------------------------------------------
 task 5:  Web page store value in the databases
 ---------------------------------------------------
+task6:Control robot movement using a website
+--------------------------------------------------
